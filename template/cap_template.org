@@ -11,7 +11,7 @@
                    规定了文件的头格式
                    将之前word的工作计划内容移植上来
    
- * TodayMajor   => 
+ * TodayMajor   => do something greate
    
  */
 
