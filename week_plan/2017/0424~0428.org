@@ -1,0 +1,25 @@
+
+/*
+
+ * Contenet     => Something about this org-file
+   
+ * Author       => Capten
+
+ * CreateTime   => 2017-04-23 22:41:29
+   
+ * TodayMajor   => To list a plan for next week
+   
+ */
+
+** 工作任务 
+   - State "工作任务"   from ""           [2017-04-23 Sun 22:42]
+     - 通合充电桩轮充样机后台调试工作 [0%]
+       - [ ] 协助通合售后人员解决样机充电问题
+       - [ ] 调试后台TCP程序
+     - 充电桩控制器程序编写 [0/2]
+       - [ ] 存储组件模块编写，划分好存储区
+       - [ ] BMS组件模块编写
+     - 软件著作权准备 [0/1]
+       - [ ] 整理软件著作权所需提交文档
+     - 瑞德实验台沟通 [100%]
+       - [X]
