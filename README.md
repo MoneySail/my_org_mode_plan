@@ -1,7 +1,7 @@
-# my_org_mode_plan
-工作生活计划
 .
 ├── README.md
+├── study_plan
+│   └── study.org
 ├── template
 │   └── cap_template.org
 └── week_plan
@@ -14,4 +14,4 @@
                 ├── 20170422.org
                 └── 20170424.org
 
-5 directories, 7 files
+6 directories, 8 files
