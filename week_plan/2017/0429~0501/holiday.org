@@ -1,0 +1,14 @@
+
+/*
+
+ * Content      => Something about this org-file
+   
+ * Author       => Capten
+
+ * CreateTime   => 2017-04-28 21:05:31
+   
+ * Major        => 指定五一假期三天的工作计划
+                1.微信部分代码优化调整
+                2.更新CSDN技术学习思考微博
+                3.继续控制器编程, 添加各个模块的静态变量
+*/

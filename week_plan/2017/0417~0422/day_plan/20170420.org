@@ -1,3 +1,16 @@
+
+/*
+
+ * Content      => Something about this org-file
+   
+ * Author       => Capten
+
+ * CreateTime   => 2017-04-28 21:04:03
+   
+ * TodayMajor   => 测试软件框架
+   
+ */
+
 ** 工作任务 
    - State "工作任务"   from "TODO"       [2017-04-20 Thu 16:47]
      - 控制器软件BMS模块编写 [100%]
