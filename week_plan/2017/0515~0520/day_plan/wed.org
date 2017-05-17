@@ -1,18 +1,27 @@
 
 /*
 
- * Content      => 
+ * Content      => 迪文液晶测试
    
  * Author       => Capten
 
- * CreateTime   => 
+ * CreateTime   => 2017-05-17 09:02:56
 
- * Brief        => 
+ * Brief        => 迪文液晶的封装与测试
                    
- * TodayMajor   => 
+ * TodayMajor   => 迪文液晶的测试，界面修改
    
  */
 
+** 工作任务 
+   - State "工作任务"   from ""           [2017-05-17 Wed 09:05]
+     - 迪文液晶遗留问题解决 [0%]
+       - [ ] 二维码问题
+       - [ ] 按钮点击回复测试
+** 学习任务 
+   - State "学习任务"   from ""           [2017-05-17 Wed 09:07]
+     - python js 操作redis测试[0/1] 
+       - [ ]
 
 备注->重要等级分类：
 
