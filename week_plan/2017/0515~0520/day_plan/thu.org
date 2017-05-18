@@ -1,18 +1,28 @@
 
 /*
 
- * Content      => 
+ * Content      => 20170518工作内容
    
  * Author       => Capten
 
- * CreateTime   => 
+ * CreateTime   => 2017-05-18 08:39:27
 
  * Brief        => 
                    
- * TodayMajor   => 
+ * TodayMajor   => HMI模块接口编写
    
  */
-
+** 工作任务 
+   - State "工作任务"   from ""           [2017-05-18 Thu 08:40]
+     - HMI模块接口编写 [%]
+       - [ ] 
+** 学习任务 
+   - State "学习任务"   from ""           [2017-05-18 Thu 08:42]
+     - Echarts控件学习 [%]
+       - [ ]
+     - LiteOs系统学习
+       - [ ]
+    
 
 备注->重要等级分类：
 
