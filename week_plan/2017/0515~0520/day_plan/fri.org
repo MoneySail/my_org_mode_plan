@@ -1,18 +1,28 @@
 
 /*
 
- * Content      => 
+ * Content      => 20170519工作内容
    
  * Author       => Capten
 
- * CreateTime   => 
+ * CreateTime   => 2017-05-19 08:44:58
 
  * Brief        => 
                    
- * TodayMajor   => 
+ * TodayMajor   => HMI接口测试，初始化模块编写
    
  */
 
+** 工作任务 
+   - State "工作任务"   from ""           [2017-05-19 Fri 08:45]
+     - HMI模块接口测试，连接控制板485口 [/]
+       - [ ]
+     - 初始化模块编写 [/]
+       - [ ]
+** 学习任务 
+   - State "学习任务"   from ""           [2017-05-19 Fri 08:45]
+     - LiteOs移植 [0/1]
+       - [ ]
 
 备注->重要等级分类：
 
