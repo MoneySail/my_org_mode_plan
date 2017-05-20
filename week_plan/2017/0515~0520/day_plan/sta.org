@@ -1,18 +1,22 @@
 
 /*
 
- * Content      => 
+ * Content      => 调试串口
    
  * Author       => Capten
 
- * CreateTime   => 
+ * CreateTime   => 2017-05-20 09:32:18
 
  * Brief        => 
                    
- * TodayMajor   => 
+ * TodayMajor   => 调试串口
    
  */
 
+** 工作任务 
+   - State "工作任务"   from ""           [2017-05-20 Sat 09:32]
+     - 串口调试工作 [0%]
+     - [ ]
 
 备注->重要等级分类：
 
