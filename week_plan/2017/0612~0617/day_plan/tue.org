@@ -1,18 +1,25 @@
 
 /*
 
- * Content      => 
+ * Content      => 周二工作计划
    
  * Author       => Capten
 
- * CreateTime   => 
+ * CreateTime   => 2017-06-13 08:40:33y
 
- * Brief        => 
+ * Brief        => 绝缘检测部分代码编写
                    
- * TodayMajor   => 
+ * TodayMajor   => 绝缘检测部分代码编写
    
  */
 
+** 工作任务 
+   - State "工作任务"   from ""           [2017-06-13 Tue 08:41]
+     - 绝缘监测模块的编写
+
+** 学习任务 
+   - State "学习任务"   from ""           [2017-06-13 Tue 08:41]
+     - 平台代码学习
 
 备注->重要等级分类：
 
