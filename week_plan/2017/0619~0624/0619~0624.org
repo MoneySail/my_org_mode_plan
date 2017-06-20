@@ -5,10 +5,16 @@
    
  * Author       => Capten
 
- * CreateTime   => 
+ * CreateTime   => 2017-06-20 08:40:50
    
- * WeekMajor    =>
+ * WeekMajor    => 完成读卡器和液晶界面的联调
    
  */
-
-      
+** 工作任务 
+   - State "工作任务"   from ""           [2017-06-20 Tue 08:41]
+     - 液晶界面工程完善 [/]
+       - [ ]
+     - 读卡器和液晶联调 [/]
+       - [ ]
+  
+     

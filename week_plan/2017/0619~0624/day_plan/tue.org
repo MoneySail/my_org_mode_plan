@@ -1,17 +1,22 @@
 
 /*
 
- * Content      => 
+ * Content      => 周二工作计划
    
  * Author       => Capten
 
- * CreateTime   => 
+ * CreateTime   => 2017-06-20 08:43:59
 
- * Brief        => 
+ * Brief        => 周二工作计划
                    
- * TodayMajor   => 
+ * TodayMajor   => 液晶界面的添加和美化工作
    
  */
+
+** 工作任务 
+   - State "工作任务"   from ""           [2017-06-20 Tue 08:44]
+     - 液晶界面的添加和美化工作
+       - [ ]
 
 
 备注->重要等级分类：
