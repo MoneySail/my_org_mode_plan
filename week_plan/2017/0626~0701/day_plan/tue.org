@@ -1,18 +1,29 @@
 
 /*
 
- * Content      => 
+ * Content      => 周二工作计划
    
  * Author       => Capten
 
- * CreateTime   => 
+ * CreateTime   => 2017-06-27 08:52:28
 
- * Brief        => 
+ * Brief        => 周二工作计划
                    
- * TodayMajor   => 
+ * TodayMajor   => 测试读卡器与液晶协同操作
    
  */
 
+
+** 工作任务 
+   - State "工作任务"   from ""           [2017-06-27 Tue 08:54]
+     - 测试控制器软件代码 [/]
+       - [ ]
+     - 修改控制器软件代码 [/]
+       - [ ]
+** 学习任务 
+   - State "学习任务"   from ""           [2017-06-27 Tue 08:54]
+     - 学习深度探索C++对象模型 [%]
+       - [ ]
 
 备注->重要等级分类：
 
