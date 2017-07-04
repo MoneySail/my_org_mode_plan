@@ -1,18 +1,23 @@
 
 /*
 
- * Content      => 
+ * Content      => 周二工作计划
    
  * Author       => Capten
 
- * CreateTime   => 
+ * CreateTime   => 2017-07-04 08:39:37
 
- * Brief        => 
+ * Brief        => 周二工作计划
                    
- * TodayMajor   => 
+ * TodayMajor   => 测试读卡器与液晶
    
  */
 
+** 工作任务 
+   - State "工作任务"   from ""           [2017-07-04 Tue 08:40]
+     - 读卡器与液晶调试 [/]
+       - [ ] 四种充电模式下的充电开始选项
+       
 
 备注->重要等级分类：
 
