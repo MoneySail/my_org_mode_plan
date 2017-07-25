@@ -1,17 +1,27 @@
 
 /*
 
- * Content      => 
+ * Content      => 周二工作内容规划
    
  * Author       => Capten
 
- * CreateTime   => 
+ * CreateTime   => 2017-07-25 08:39:03
 
- * Brief        => 
+ * Brief        => 周二工作内容介绍
                    
- * TodayMajor   => 
+ * TodayMajor   => 配合南京人员进行调试
    
  */
+
+** 工作任务 
+   - State "工作任务"   from ""           [2017-07-25 Tue 08:39]
+     - 配合南京人员进行控制器调试 [0/1]
+       - [ ] 结合调试的内容，分析已有开发内容的不足
+** 学习任务 
+   - State "学习任务"   from ""           [2017-07-25 Tue 08:45]
+     - ACE框架代码学习 [/]
+       - [ ]
+         
 
 
 备注->重要等级分类：
