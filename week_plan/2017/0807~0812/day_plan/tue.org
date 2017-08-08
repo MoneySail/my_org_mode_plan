@@ -1,18 +1,26 @@
 
 /*
 
- * Content      => 
+ * Content      => 周二工作计划
    
  * Author       => Capten
 
- * CreateTime   => 
+ * CreateTime   => 2017-08-08 08:35:05
 
- * Brief        => 
+ * Brief        => 周二工作计划
                    
- * TodayMajor   => 
+ * TodayMajor   => 测试控制器软件
    
  */
 
+** 工作任务 
+   - State "工作任务"   from ""           [2017-08-08 Tue 08:36]
+     - 控制器软件调试 [/]
+       - [ ] 
+** 学习任务 
+   - State "学习任务"   from ""           [2017-08-08 Tue 08:39]
+     - XJTC 代码学习 [/]
+       - [ ]
 
 备注->重要等级分类：
 
