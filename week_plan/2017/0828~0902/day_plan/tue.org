@@ -1,18 +1,25 @@
 
 /*
 
- * Content      => 
+ * Content      => 周二工作计划
    
  * Author       => Capten
 
- * CreateTime   => 
+ * CreateTime   => 2017-08-29 08:44:14
 
- * Brief        => 
+ * Brief        => 周二工作计划
                    
- * TodayMajor   => 
+ * TodayMajor   => 深入C++对象模型学习
    
  */
 
+
+** 工作任务 
+   - State "工作任务"   from ""           [2017-08-29 Tue 08:47]
+
+** 学习任务 
+   - State "学习任务"   from ""           [2017-08-29 Tue 08:47]
+     - 深入C++对象模型学习
 
 备注->重要等级分类：
 
