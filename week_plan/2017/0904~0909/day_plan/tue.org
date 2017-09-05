@@ -1,18 +1,26 @@
 
 /*
 
- * Content      => 
+ * Content      => 周二工作计划
    
  * Author       => Capten
 
- * CreateTime   => 
+ * CreateTime   => 2017-09-05 08:56:53
 
- * Brief        => 
+ * Brief        => 周二工作计划
                    
- * TodayMajor   => 
+ * TodayMajor   => 学习继电保护基本原理
    
  */
 
+** 学习任务 
+   - State "学习任务"   from ""           [2017-09-05 Tue 08:58]
+     - 继电保护原理学习 [0/1]
+       - [ ]
+     - 远动规约学习 [/]
+       - [ ]
+** 工作任务 
+   - State "工作任务"   from ""           [2017-09-05 Tue 09:00]
 
 备注->重要等级分类：
 
