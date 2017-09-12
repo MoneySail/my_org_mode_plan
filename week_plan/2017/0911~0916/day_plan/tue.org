@@ -1,17 +1,22 @@
 
 /*
 
- * Content      => 
+ * Content      => 20170912工作内容
    
  * Author       => Capten
 
- * CreateTime   => 
+ * CreateTime   => 2017-09-12 08:38:22
 
- * Brief        => 
+ * Brief        => 今日工作计划
                    
- * TodayMajor   => 
+ * TodayMajor   => 布置充电桩环境，开始测试
    
  */
+
+** 学习任务 
+   - State "学习任务"   from ""           [2017-09-12 Tue 08:39]
+     - 深入C++对象模型 [0/1]
+       - [ ]
 
 
 备注->重要等级分类：
