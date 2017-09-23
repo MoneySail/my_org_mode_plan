@@ -1,14 +1,10 @@
 
 /*
 
- * Content      => 
-   
  * Author       => Capten
 
  * CreateTime   => 
 
- * Brief        => 
-                   
  * TodayMajor   => 
    
  */
