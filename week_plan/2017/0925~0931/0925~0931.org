@@ -3,10 +3,15 @@
 
  * Author       => Capten
 
- * CreateTime   => 
+ * CreateTime   => 2017-09-25 09:07:37
    
- * WeekMajor    =>
+ * WeekMajor    => 学习C++ COM知识，JAVA虚拟机
    
  */
+
+** 工作任务 
+   - State "工作任务"   from ""           [2017-09-26 Tue 09:08]
+     - COM组件知识学习 [0/1]
+       - [ ]
 
       
