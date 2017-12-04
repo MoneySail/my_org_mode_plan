@@ -3,10 +3,14 @@
 
  * Author       => Capten
 
- * CreateTime   => 
+ * CreateTime   => 2017-11-27 10:09:25
    
- * WeekMajor    =>
+ * WeekMajor    => 准备国网审厂的资料
    
  */
 
+** 学习任务 
+   - State "学习任务"   from ""           [2017-12-04 Mon 10:11]
+     - 准备国网审厂的资料 [1/1]
+       - [X]
       
