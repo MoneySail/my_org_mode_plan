@@ -3,10 +3,15 @@
 
  * Author       => Capten
 
- * CreateTime   => 
+ * CreateTime   => 2018-02-23 09:34:00
    
- * WeekMajor    =>
+ * WeekMajor    => 调整心态，注重结果
    
  */
 
-      
+** 学习任务 
+   - State "学习任务"   from ""           [2018-02-23 Fri 09:38]
+     - 软考项目管理师考试准备 [/]
+       - [ ]
+     - 今年的目标规划 [%]
+       - [ ]
